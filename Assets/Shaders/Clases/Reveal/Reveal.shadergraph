@@ -98,9 +98,6 @@
             "m_Id": "218a41633ef04a2fab74d2fe1ec87226"
         },
         {
-            "m_Id": "8fccf58ce0bb438fbaf01271083800ed"
-        },
-        {
             "m_Id": "3437be2c75a3435c9b285d49a6f0140d"
         },
         {
@@ -922,8 +919,8 @@
     "m_ObjectId": "5bbc2f198f1e4c8799477968c681645c",
     "m_Title": "Reveal Radius",
     "m_Position": {
-        "x": -1366.9998779296875,
-        "y": -319.0
+        "x": -1367.0001220703125,
+        "y": -319.0000305175781
     }
 }
 
@@ -1090,8 +1087,8 @@
     "m_ObjectId": "6f03a9d9652d48eea28f3f6309324b8e",
     "m_Title": "Radius Color",
     "m_Position": {
-        "x": -654.9998779296875,
-        "y": -612.9999389648438
+        "x": -655.0000610351563,
+        "y": -613.0000610351563
     }
 }
 
@@ -1174,26 +1171,6 @@
         "y": 0.0,
         "z": 0.0,
         "w": 0.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "8fccf58ce0bb438fbaf01271083800ed",
-    "m_Title": "",
-    "m_Content": "Definimos una zona por la cual pintar y su suavizado.",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": -1181.0,
-        "y": -68.0,
-        "width": 119.0,
-        "height": 100.0
-    },
-    "m_Group": {
-        "m_Id": "5bbc2f198f1e4c8799477968c681645c"
     }
 }
 
@@ -1678,7 +1655,7 @@
     "m_ObjectId": "c5f08cb6b86f4db99c443f4080cec9c6",
     "m_Title": "Distance",
     "m_Position": {
-        "x": -1426.9998779296875,
+        "x": -1427.0001220703125,
         "y": 100.0
     }
 }
