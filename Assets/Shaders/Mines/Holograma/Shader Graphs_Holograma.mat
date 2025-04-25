@@ -50,7 +50,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Change_Side_Glitch: 0
+    - _Change_Side_Glitch: 1
     - _Noise_Scaler: 5
     - _Noiste_Strenght: 0.16
     - _QueueControl: 0
