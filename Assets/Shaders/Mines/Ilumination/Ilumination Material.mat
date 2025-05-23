@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-3638096236406163586
+--- !u!114 &-7939366658177232895
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Water Material
-  m_Shader: {fileID: -6465566751694194690, guid: 48219e66c9ca17f439f8a2ad3cbec5d1, type: 3}
+  m_Name: Ilumination Material
+  m_Shader: {fileID: -6465566751694194690, guid: 126b9a1d167eafa49a3843596720786f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -37,8 +37,8 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _Refraction_Normal:
-        m_Texture: {fileID: 2800000, guid: 0da50814b3b54b24cafbf716bc8db748, type: 3}
+    - _Textura:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -55,28 +55,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Distance: 2.5
-    - _Foam_Amount: 3
-    - _Foam_Cutoff: 25
-    - _Foam_Scale: 15
-    - _Foam_Speed: 2
-    - _Frecuencia: 25
-    - _High_Frecuency: 1
-    - _Movement: 0.1
-    - _Normal_Strength: 15
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Refraction_Speed: 0.1
-    - _Refraction_Strength: 25
-    - _Smoothnes: 1
-    - _Speed: 3
-    - _Strenght: 5
-    - _Wave_Amplitude: 0
-    - _Wave_Speed: 0.5
     m_Colors:
-    - _Deep_Color: {r: 0, g: 0.09495878, b: 1, a: 0.3529412}
-    - _Foam_Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Refraction_Scale: {r: 3, g: 3, b: 0, a: 0}
-    - _Surface_Color: {r: 0, g: 0.9489441, b: 1, a: 0.42745098}
+    - _Shadow_Color: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
