@@ -1230,7 +1230,7 @@ Transform:
   m_GameObject: {fileID: 560602606}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 14.09, y: 1.758, z: 12.8}
+  m_LocalPosition: {x: 14.09, y: 1.689, z: 12.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3003,8 +3003,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2078078259}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.34810045, y: -0.032940034, z: 0.01224003, w: 0.9367984}
-  m_LocalPosition: {x: 11.580352, y: 19.4, z: -17.384432}
+  m_LocalRotation: {x: 0.28310567, y: 0.5460822, z: -0.20291606, w: 0.7618862}
+  m_LocalPosition: {x: -11.307461, y: 19.4, z: -2.167873}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3069,7 +3069,7 @@ MonoBehaviour:
   Target: {fileID: 1831461372}
   Distance: 22.5
   YOffset: 19.4
-  Angle: 175.97235
+  Angle: 251.26215
   OrbitSpeed: 15
 --- !u!4 &2092301137 stripped
 Transform:
