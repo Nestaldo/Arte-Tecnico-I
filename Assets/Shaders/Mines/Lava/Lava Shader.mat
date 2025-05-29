@@ -58,12 +58,12 @@ Material:
     - _FresnelColorEmisionLight: 5
     - _Fresnel_Power: 2
     - _High_Frecuency: 1
-    - _Lava_Speed: 0.03
+    - _Lava_Speed: 0.04
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Radius: 1
     - _Smoothnes: 0
-    - _Wave_Amplitude: 0.01
+    - _Wave_Amplitude: 0.5
     - _Wave_Speed: 2
     m_Colors:
     - _Fresnel_Color_1: {r: 0.9433962, g: 0.68974715, b: 0.7330965, a: 0}
